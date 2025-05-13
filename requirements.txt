@@ -1,0 +1,3 @@
+flask
+PIL.Image
+google.generativeai
