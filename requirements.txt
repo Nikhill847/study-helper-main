@@ -1,3 +1,4 @@
 flask
 PIL.Image
 google.generativeai
+gunicorn
